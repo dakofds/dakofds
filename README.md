@@ -1,2 +1,3 @@
 ## Slakkk
-pensando em algo pra colocar aqui 🦅🔥
+## Linguagens mais usadas
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight
