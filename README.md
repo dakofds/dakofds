@@ -1,4 +1,4 @@
-<h2 align="center"> ⚒️ Linguagens-Ferramentas ⚒️ </h2>
+<h2 align="center"> ⚒️ Linguagens-Ferramentas-frameworks ⚒️ </h2>
 <br/>
 <div align="center">
  <a href="https://skillicons.dev/">
