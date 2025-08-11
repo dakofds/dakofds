@@ -1,2 +1,7 @@
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakofds&layout=compact&theme=radical">
-
+<h2 align="center"> ⚒️ Linguagens-Ferramentas ⚒️ </h2>
+<br/>
+<div align="center">
+ <a href="https://skillicons.dev/">
+  <img src="https://skillicons.dev/icons?i=github,python,ruby,neovim">
+ </a>
+</div>
