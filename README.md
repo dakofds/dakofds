@@ -2,6 +2,6 @@
 <br/>
 <div align="center">
  <a href="https://skillicons.dev/">
-  <img src="https://skillicons.dev/icons?i=python,ruby,neovim,github">
+  <img src="https://skillicons.dev/icons?i=python,ruby,neovim,github,html,css">
  </a>
 </div>
